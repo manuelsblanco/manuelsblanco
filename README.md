@@ -7,5 +7,5 @@ My name is Manuel, I'm from Argentina and I this is my GitHub Profile!
 - 👯 I’m looking to collaborate on Projects Open Source, with focus on non-propfits projects
 - 💬 Ask me about Angular or Data Science
 - 📫 How to reach me: Twitter: https://twitter.com/M_S_Blanco and my Linkedin https://www.linkedin.com/in/msb1989/
-- ⚡ Fun fact: I love to hack things
+- ⚡ Fun fact: I love to hack things, like my Nintendo Switch.
 
