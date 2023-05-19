@@ -1,11 +1,11 @@
-### Hi there 👋
+Hi there! 👋
+I'm Manuel, a QA Software Engineer from Argentina. Welcome to my GitHub profile!
 
-My name is Manuel, I'm from Argentina and I this is my GitHub Profile!
+🔭 Currently, I'm focused on developing quality software and automated testing using Java and Python.
+🌱 The world of computer science is a never-ending journey, and I'm continuously learning and growing.
+👯 I'm passionate about contributing to open-source projects, particularly those that benefit non-profit organizations.
+💬 If you have any questions about software quality, feel free to ask me.
+📫 You can reach me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/msb1989/)
+⚡ Fun fact: I enjoy hacking things, like my console 🎮 from Japan that shall not be named due to legal reasons.
 
-- 🔭 I’m currently working on developing Healt SPA using Angular and NODE JS.
-- 🌱 I’m currently learning Angular, NODE JS and Data Science with Python.
-- 👯 I’m looking to collaborate on Projects Open Source, with focus on non-propfits projects
-- 💬 Ask me about Angular or Data Science
-- 📫 How to reach me: Twitter: https://twitter.com/M_S_Blanco and my Linkedin https://www.linkedin.com/in/msb1989/
-- ⚡ Fun fact: I love to hack things, like my Nintendo Switch.
-
+Let's collaborate and build exceptional software together! 😄
