@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-I'm Manuel, a Quality Assurance (QA) Software Engineer hailing from Argentina. Welcome to my GitHub universe!
+I'm Manuel, a Quality Assurance (QA) Software Engineer. Welcome to my GitHub universe!
 
 #### What I'm Up To 🔭
 
